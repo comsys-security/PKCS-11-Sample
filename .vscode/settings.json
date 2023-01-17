@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pkcs11.h": "c",
+        "cryptoki.h": "c",
+        "stdlib.h": "c"
+    }
+}
